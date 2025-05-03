@@ -1,0 +1,2 @@
+- AutoGLM深思：智谱官方的app，可以自动化执行任务，写报告。类似于manus
+	- 官方链接：https://autoglm-research.zhipuai.cn/

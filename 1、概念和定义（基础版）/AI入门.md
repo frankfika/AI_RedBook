@@ -1,0 +1,23 @@
+- 腾讯IMA：腾讯出品的，最好用的人知识库最好的软件
+	- 官方链接：https://ima.qq.com/
+	- 自制的教程：https://www.bilibili.com/video/BV1UoZGYvEYn/
+	- 自制的笔记：https://ash-donut-df7.notion.site/IMA-2025-03-09-1b054a3252d780d99920ff91b4fdbab4?pvs=4
+	- 一些优秀的知识库推荐：
+		- https://wiki.ima.qq.com/knowledge-base-share?shareId=2371bfb0ddd5f065fd079b92937156c6fb819f197931e68202827f4d090c2cd6
+		- https://wiki.ima.qq.com/knowledge-base-share?shareId=63fe339a12deb125ec179e74a79e4a69ddf8d294cf644e769a846da613254db3
+		- https://wiki.ima.qq.com/knowledge-base-share?shareId=ec4befe0c1a7f86be056467c4602ed4901a0ab551d8c6bee3f54dd19ae765f81
+		- https://wiki.ima.qq.com/knowledge-base-share?shareId=ee453ee4b450183d96cfb2aceefcbfd3fb40d486d54ee55afdf7897311ab13b0
+- AutoGLM深思：智谱官方的app，可以自动化执行任务，写报告。类似于manus
+	- 官方链接：https://autoglm-research.zhipuai.cn/
+- flowith：一款类似于manus的工作流软件
+	- 官方链接：http://flowith.io/
+	- 官方的一些案例库： https://flowithai.feishu.cn/docx/I5J6dQZt9opp2Rxhdi2c0JnrnKc?from=from_copylink
+	- 介绍文章：https://mp.weixin.qq.com/s/GzK-639QHioa6YaIAMs5Vw
+- Coze/Dify：工作流和知识库搭建工具。非常好用.coze支持一键做小程序
+	- 官方链接（coze）：https://www.coze.con/
+	- 官方链接（dify）：http://dify.ai/
+- 自己搭建本地大模型和知识库：
+	- 工具：cherrystudio，anythingllm
+	- API接口：硅基流动（支持包括deepseek在内的多种API）、DeepSeeek、Ollama
+	- 教程：https://mp.weixin.qq.com/s/hTDyRWMBXIwDriECGAkHtg
+- Cursor/V0/MetaGPT：自动化编程工具。（不会代码的也可以使用）
